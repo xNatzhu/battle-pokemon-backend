@@ -1,6 +1,6 @@
-# BatlePokemon
+# BattlePokemon
 
-BatlePokemon es un emocionante proyecto que te permite hacer que tus Pokémon luchen entre sí.
+BattlePokemon es un emocionante proyecto que te permite hacer que tus Pokémon luchen entre sí.
 
 ## 🚀 Instalación
 
