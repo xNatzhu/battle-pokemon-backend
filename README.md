@@ -24,7 +24,7 @@ npm install
 npm start
 ```
 
-## 🔨 Implementacion de servicios:
+## 🔧 Implementación de Servicios
 
 1. Añadir Pokémon a la Base de Datos
 
